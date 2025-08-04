@@ -2402,7 +2402,7 @@ const BotTracery = {
 		"only eats eggs #eggprep#",
 		"wearing a #smallitem#",
 		"mostly reads #genrefiction#",
-		"makes #meal# when said",
+		"makes #meal# when sad",
 		"loves the color #color#",
 		"majored in #collegemajor#",
 		"minored in #collegemajor#",
