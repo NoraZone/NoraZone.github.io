@@ -2780,30 +2780,54 @@ const BotTracery = {
 		"sea"
 	],
 	"origin": [
-				"<h1>#dwarfname# </h1><h2>Dwarf</h2><h2>#mageclass.capitalizeAll# </h2><h3>#pronoun#</h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#magedetail#</h4>",
-		"<h1>#elfname# </h1><h2>Elf</h2><h2>#mageclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#magedetail#</h4>",
-		"<h1>#humanname# </h1><h2>Human</h2><h2>#mageclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#magedetail#</h4>",
-		"<h1>#dwarfname# </h1><h2>Dwarf</h2><h2>#clericclass.capitalizeAll# of #religiousfigure# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#clericdetail#</h4>",
-		"<h1>#elfname# </h1><h2>Elf</h2><h2>#clericclass.capitalizeAll# of #religiousfigure# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#clericdetail#</h4>",
-		"<h1>#humanname# </h1><h2>Human</h2><h2>#clericclass.capitalizeAll# of #religiousfigure# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#clericdetail#</h4>",
-		"<h1>#dwarfname# </h1><h2>Dwarf</h2><h2>#rogueclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#roguedetail#</h4>",
-		"<h1>#elfname# </h1><h2>Elf</h2><h2>#rogueclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#roguedetail#</h4>",
-		"<h1>#humanname# </h1><h2>Human</h2><h2>#rogueclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#roguedetail#</h4>",
-		"<h1>#dwarfname# </h1><h2>Dwarf</h2><h2>#fighterclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#fighterdetail#</h4>",
-		"<h1>#elfname# </h1><h2>Elf</h2><h2>#fighterclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#fighterdetail#</h4>",
-		"<h1>#humanname# </h1><h2>Human</h2><h2>#fighterclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#fighterdetail#</h4>",
-		"<h1>#dwarfname# </h1><h2>Dwarf</h2><h2>#commonerclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#commonerdetail#</h4>",
-		"<h1>#elfname# </h1><h2>Elf</h2><h2>#commonerclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#commonerdetail#</h4>",
-		"<h1>#humanname# </h1><h2>Human</h2><h2>#commonerclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#commonerdetail#</h4>",
-		"<h1>#dwarfname# </h1><h2>Dwarf</h2><h2>#nobleclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#nobledetail#</h4>",
-		"<h1>#elfname# </h1><h2>Elf</h2><h2>#nobleclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#nobledetail#</h4>",
-		"<h1>#humanname# </h1><h2>Human</h2><h2>#nobleclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#nobledetail#</h4>",
-		"<h1>#orcname# </h1><h2>Orc</h2><h2>#mageclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#magedetail#</h4>",
-		"<h1>#orcname# </h1><h2>Orc</h2><h2>#clericclass.capitalizeAll# of #religiousfigure# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#clericdetail#</h4>",
-		"<h1>#orcname# </h1><h2>Orc</h2><h2>#rogueclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#roguedetail#</h4>",
-		"<h1>#orcname# </h1><h2>Orc</h2><h2>#fighterclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#fighterdetail#</h4>",
-		"<h1>#orcname# </h1><h2>Orc</h2><h2>#commonerclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#commonerdetail#</h4>",
-		"<h1>#orcname# </h1><h2>Orc</h2><h2>#nobleclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#nobledetail#</h4>"
+		"<h1>#dwarfname# </h1>
+<h2>Dwarf</h2><h2>#mageclass.capitalizeAll# </h2><h3>#pronoun#</h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#magedetail#</h4>",
+		"<h1>#elfname# </h1>
+<h2>Elf</h2><h2>#mageclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#magedetail#</h4>",
+		"<h1>#humanname# </h1>
+<h2>Human</h2><h2>#mageclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#magedetail#</h4>",
+		"<h1>#dwarfname# </h1>
+<h2>Dwarf</h2><h2>#clericclass.capitalizeAll# of #religiousfigure# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#clericdetail#</h4>",
+		"<h1>#elfname# </h1>
+<h2>Elf</h2><h2>#clericclass.capitalizeAll# of #religiousfigure# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#clericdetail#</h4>",
+		"<h1>#humanname# </h1>
+<h2>Human</h2><h2>#clericclass.capitalizeAll# of #religiousfigure# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#clericdetail#</h4>",
+		"<h1>#dwarfname# </h1>
+<h2>Dwarf</h2><h2>#rogueclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#roguedetail#</h4>",
+		"<h1>#elfname# </h1>
+<h2>Elf</h2><h2>#rogueclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#roguedetail#</h4>",
+		"<h1>#humanname# </h1>
+<h2>Human</h2><h2>#rogueclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#roguedetail#</h4>",
+		"<h1>#dwarfname# </h1>
+<h2>Dwarf</h2><h2>#fighterclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#fighterdetail#</h4>",
+		"<h1>#elfname# </h1>
+<h2>Elf</h2><h2>#fighterclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#fighterdetail#</h4>",
+		"<h1>#humanname# </h1>
+<h2>Human</h2><h2>#fighterclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#fighterdetail#</h4>",
+		"<h1>#dwarfname# </h1>
+<h2>Dwarf</h2><h2>#commonerclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#commonerdetail#</h4>",
+		"<h1>#elfname# </h1>
+<h2>Elf</h2><h2>#commonerclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#commonerdetail#</h4>",
+		"<h1>#humanname# </h1>
+<h2>Human</h2><h2>#commonerclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#commonerdetail#</h4>",
+		"<h1>#dwarfname# </h1>
+<h2>Dwarf</h2><h2>#nobleclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#nobledetail#</h4>",
+		"<h1>#elfname# </h1>
+<h2>Elf</h2><h2>#nobleclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#nobledetail#</h4>",
+		"<h1>#humanname# </h1>
+<h2>Human</h2><h2>#nobleclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#nobledetail#</h4>",
+		"<h1>#orcname# </h1>
+<h2>Orc</h2><h2>#mageclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#magedetail#</h4>",
+		"<h1>#orcname# </h1>
+<h2>Orc</h2><h2>#clericclass.capitalizeAll# of #religiousfigure# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#clericdetail#</h4>",
+		"<h1>#orcname# </h1>
+<h2>Orc</h2><h2>#rogueclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#roguedetail#</h4>",
+		"<h1>#orcname# </h1>
+<h2>Orc</h2><h2>#fighterclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#fighterdetail#</h4>",
+		"<h1>#orcname# </h1>
+<h2>Orc</h2><h2>#commonerclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#commonerdetail#</h4>",
+		"<h1>#orcname# </h1>
+<h2>Orc</h2><h2>#nobleclass.capitalizeAll# </h2><h3>#pronoun# </h3><h4>#lookdetail# </h4><h4>#gendetail# </h4><h4>#nobledetail#</h4>"
 	],
 	"trashgen": [
 		"rule"
