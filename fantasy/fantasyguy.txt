@@ -4467,14 +4467,12 @@ const BotTracery = {
 		"#animal.capitalizeAll# Lords",
 		"Band of the #clutter.capitalizeAll#",
 		"#class# College",
-		"Clan #name#",
 		"#color.capitalizeAll# #weapon.capitalizeAll.s#",
 		"Brotherhood of the #domain.capitalizeAll#",
 		"Sisterhood of the #domain.capitalizeAll#",
 		"#weapon.capitalizeAll.s# of the #color.capitalizeAll# #biome.capitalizeAll#",
 		"Circle of #domain.capitalizeAll#",
-		"Companions of #name#",
-		"Clan #name#"
+		"Companions of #name#"
 	],
 	"eyeadj": [
 		"calculating",
