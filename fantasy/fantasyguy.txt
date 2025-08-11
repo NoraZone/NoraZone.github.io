@@ -21,7 +21,7 @@ const BotTracery = {
 		"<h1>#orcname# </h1><h3>Orc</h3><h4>#mageclass.capitalizeAll# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#magedetail#</li></ul>",
 		"<h1>#orcname# </h1><h3>Orc</h3><h4>#clericclass.capitalizeAll# of #religiousfigure# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#clericdetail#</li></ul>",
 		"<h1>#orcname# </h1><h3>Orc</h3><h4>#rogueclass.capitalizeAll# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#roguedetail#</li></ul>",
-		"<h1>#orcname# </h1><h3>Orc</h3><h4>#fighterclass.capitalizeAll# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#fighterdetail#</li></ul>",
+		"<h1>#orcname# </h1><h3>Orc</h3><h4>#fighterclass.capitalizeAll# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#fighterdetail#</li></ul>"],
 "endsyl": [
 		"bria",
 		"rav",
