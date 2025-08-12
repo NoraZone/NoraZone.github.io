@@ -5339,7 +5339,6 @@ const BotTracery = {
 		"to bring my divinity back into prominence",
 		"to complete a pilgrimage to #location#",
 		"to preserve the sacred lore of #domain#"
-		
     ],
     "listmagewant": [
         "to win the cutest familiar contest",
