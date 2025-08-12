@@ -23,7 +23,7 @@ const BotTracery = {
 		"<h1>#orcname# </h1><h3>Orc</h3><h4>#rogueclass.capitalizeAll# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#roguedetail#</li><li><b>I want #clericwant#</b></li></ul>",
 		"<h1>#orcname# </h1><h3>Orc</h3><h4>#fighterclass.capitalizeAll# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#fighterdetail#</li><li><b>I want #fighterwant#</b></li></ul>",
 		"<h1>#orcname# </h1><h3>Orc</h3><h4>#commonerclass.capitalizeAll# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#commonerdetail#</li><li><b>I want #commonerwant#</b></li></ul>",
-		"<h1>#orcname# </h1><h3>Orc</h3><h4>#nobleclass.capitalizeAll# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#nobledetail#</li><li><b>I want #noblewant#</b></li></ul>"],
+		"<h1>#orcname# </h1><h3>Orc</h3><h4>#nobleclass.capitalizeAll# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#nobledetail#</li><li><b>I want #noblewant#</b></li></ul>",
 		"<h1>#koboldname# </h1><h3>Kobold</h3><h4>#mageclass.capitalizeAll# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#magedetail#</li><li><b>I want #magewant#</b></li></ul>",
 		"<h1>#koboldname# </h1><h3>Kobold</h3><h4>#clericclass.capitalizeAll# of #religiousfigure# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#clericdetail#</li><li><b>I want #clericwant#</b></li></ul>",
 		"<h1>#koboldname# </h1><h3>Kobold</h3><h4>#rogueclass.capitalizeAll# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#roguedetail#</li><li><b>I want #clericwant#</b></li></ul>",
