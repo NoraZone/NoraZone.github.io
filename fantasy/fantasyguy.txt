@@ -5244,7 +5244,7 @@ const BotTracery = {
     "roguewant": [
         "#genwant#",
         "#genwant#",
-        "#listroguewant"
+        "#listroguewant#"
     ],
     "clericwant": [
         "#genwant#",
