@@ -5330,7 +5330,7 @@ const BotTracery = {
 		"to revive my god's ancient lost language",
 		"to start a new denomination",
 		"to ensure my order's safety",
-		"to convert #noblename# the #nobleclass# to my faith",
+		"to convert #name# the #nobleclass# to my faith",
 		"to save #location# from #mythicalcreature#",
 		"to achieve enlightenment",
 		"to ascend to godhood",
