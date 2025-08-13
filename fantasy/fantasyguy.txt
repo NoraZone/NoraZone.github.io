@@ -31,7 +31,8 @@ const BotTracery = {
 		"<h1>#koboldname# </h1><h3>Kobold</h3><h4>#commonerclass.capitalizeAll# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#commonerdetail#</li><li><b>I want #commonerwant#</b></li></ul>",
 		"<h1>#koboldname# </h1><h3>Kobold</h3><h4>#nobleclass.capitalizeAll# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#nobledetail#</li><li><b>I want #noblewant#</b></li></ul>"
 ],
-"endsyl": [
+
+    "endsyl": [
         "bria",
         "rav",
         "ron",
@@ -2039,7 +2040,6 @@ const BotTracery = {
         "Hierophant",
         "Inquisitor",
         "Oracle",
-        "Samurai",
         "Shifter",
         "Spiritualist",
         "Priest",
@@ -2244,8 +2244,8 @@ const BotTracery = {
         "is afraid of #fear# but working on it",
         "is afraid of #fear# but doesn't talk about it",
         "raised in a mixed household with a family of #heritagelist.s#",
-        "member of the #group#",
-        "prominent member of the #group#",
+        "member of the #group.capitalizeAll#",
+        "prominent member of the #group.capitalizeAll#",
         "has a day job as #localpolitician.a#",
         "moonlights as #localpolitician.a#",
         "has a band of #color# dragon scales around their #bodypart#",
@@ -2289,7 +2289,7 @@ const BotTracery = {
         "wearing one #color# sock and one #color# sock",
         "wearing mismatched #color# and #color# hose",
         "has a resting expression of #emotion#",
-        "wearing an emblem of the #group# that only other members would recognize",
+        "wearing an emblem of the #group.capitalizeAll# that only other members would recognize",
         "#eyeadj# #color# eyes",
         "#eyeadj# eyes",
         "#handadj# hands",
@@ -2650,7 +2650,7 @@ const BotTracery = {
         "missing their #digit# after the incident",
         "idly rolling a #preciousmetal# coin across #leftright# knuckles",
         "claims to be able to pick a lock with a #alltool#",
-        "infiltrating the #group#"
+        "infiltrating the #group.capitalizeAll#"
     ],
     "instrument": [
         "accordion",
@@ -3374,8 +3374,8 @@ const BotTracery = {
     "religiousfigure": [
         "the #god.capitalizeAll# of #domain.capitalizeAll# and #domain.capitalizeAll#",
         "the #god.capitalizeAll# of #domain.capitalizeAll#",
-        "the #god.capitalizeAll# of #animal.s#",
-        "the #god.capitalizeAll# of #class.s#"
+        "the #god.capitalizeAll# of #animal.s.capitalizeAll#",
+        "the #god.capitalizeAll# of #class.s.capitalizeAll#"
     ],
     "god": [
         "god",
@@ -4441,7 +4441,7 @@ const BotTracery = {
         "writing a #persbook# on #domain#",
         "raising money to build a new #publicgoodbuilding#",
         "pinches bridge of nose when frustrated",
-        "secretly the chaplain of the #group#",
+        "secretly the chaplain of the #group.capitalizeAll#",
         "translating the holy texts into #language.capitalizeAll#"
     ],
     "publicgoodbuilding": [
@@ -5364,7 +5364,7 @@ const BotTracery = {
     "listroguewant": [
         "an easy mark",
         "notoriety",
-        "to join the #group#",
+        "to join the #group.capitalizeAll#",
         "to go legitimate",
         "undisputed ownership of a fortune",
         "to be admired by a crowd",
@@ -5438,7 +5438,7 @@ const BotTracery = {
         "t"
     ],
 	    "genwant": [
-               "to protect #location# from #mythicalcreature#",
+        "to protect #location# from #mythicalcreature#",
         "safety",
         "safety for my family",
         "victory",
