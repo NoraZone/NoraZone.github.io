@@ -31,7 +31,8 @@ const BotTracery = {
 		"<h1>#koboldname# </h1><h3>Kobold</h3><h4>#commonerclass.capitalizeAll# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#commonerdetail#</li><li><b>I want #commonerwant#</b></li></ul>",
 		"<h1>#koboldname# </h1><h3>Kobold</h3><h4>#nobleclass.capitalizeAll# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#nobledetail#</li><li><b>I want #noblewant#</b></li></ul>"
 ],
-   "endsyl": [
+
+    "endsyl": [
         "bria",
         "rav",
         "ron",
@@ -5455,14 +5456,14 @@ const BotTracery = {
         "to hurt #name# like they hurt me",
         "to keep a terrible secret",
         "to prove #name# wrong",
-		"to achieve dominion over the #heritage.s#",
+		"to achieve dominion over the #heritage.capitalizeAll.s#",
 		"to avoid death at the hands of #name.capitalizeAll#",
-		"to become the king of the #heritage.s#",
-		"to be accepted by the #heritage.s#",
+		"to become the king of the #heritage.capitalizeAll.s#",
+		"to be accepted by the #heritage.capitalizeAll.s#",
 		"to make my parent proud",
 		"to please my ancestors",
 		"to get improve my #attribute#",
-		"to get revenge on #groupcapitalizeAll#",
+		"to get revenge on #group.capitalizeAll#",
 		"to rescue #name# from the #mythicalcreature#",
 		"to find the fabled #valuable.capitalizeAll#",
 		"to steal back my #treasure#",
