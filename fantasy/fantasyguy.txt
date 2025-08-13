@@ -31,7 +31,6 @@ const BotTracery = {
 		"<h1>#koboldname# </h1><h3>Kobold</h3><h4>#commonerclass.capitalizeAll# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#commonerdetail#</li><li><b>I want #commonerwant#</b></li></ul>",
 		"<h1>#koboldname# </h1><h3>Kobold</h3><h4>#nobleclass.capitalizeAll# </h4><p><em>#pronoun#</em> </p><ul><li>#lookdetail# </li><li>#gendetail# </li><li>#nobledetail#</li><li><b>I want #noblewant#</b></li></ul>"
 ],
-
 	"accessibilitydesc": [
 		"#gem#-studded",
 		"#gem#-encrusted"
@@ -3145,7 +3144,24 @@ const BotTracery = {
 		"to save the world",
 		"a just death",
 		"to stop my vision from coming to pass",
-		"to get what is owed me"
+		"to get what is owed me",
+		"clemency for the wizard king",
+		"to finish the mission",
+		"to find my own way",
+		"strong friends",
+		"to get to #location#",
+		"an antidote, and fast",
+		"to be saved",
+		"to get through the day",
+		"for all this to mean something",
+		"to never be found",
+		"fame",
+		"to be forgotten",
+		"out",
+		"safe harbor",
+		"to make up for what I did",
+		"to be noticed",
+		"to get far enough from trouble that it cannot chase me home"
 	],
 	"god": [
 		"god",
@@ -3497,8 +3513,31 @@ const BotTracery = {
 		"Abyssal",
 		"Celestial",
 		"Primordial",
-		"Goblin"
+		"Goblin",
+		"Kobold",
+		"Halfling",
+		"Faerie",
+		"Gnomish",
+		"Lycan",
+		"Primordial",
+		"Giant"
+		
 	],
+	"languagemod":[
+		"old",
+		"low",
+		"high",
+		"classical",
+		"vernacular",
+		"post-temple",
+		"neoclassical",
+		"rude",
+		"blasphemous",
+		"pig",
+		"gutter",
+		"deep",
+		"surface"
+		],
 	"lateearly": [
 		"late",
 		"early"
@@ -4069,8 +4108,20 @@ const BotTracery = {
 		"whetstone"
 	],
 	"mythicalcreature": [
-		"dragons",
-		"wyverns"
+		"dragon",
+		"wyvern",
+		"basilisk",
+		"#element# elemental",
+		"manticore",
+		"unicorn",
+		"cockatrice",
+		"bonnacon",
+		"kraken",
+		"sea serpent",
+		"terrasque",
+		"lyndwyrm",
+		"hydra",
+		"gelatinous cube"
 	],
 	"name": [
 		"#orcname#",
@@ -4716,7 +4767,7 @@ const BotTracery = {
 	"rngdetail": [
 		"former #commonerclass#",
 		"comes from a family of #commonerclass.s#",
-		"saves on rations by eating #mythicalcreature#",
+		"saves on rations by eating #mythicalcreature.s#",
 		"used to be the #localpolitician# of #location#",
 		"speaks #language# #fluencylevel#",
 		"speaks #language# with a #language# accent",
@@ -4736,7 +4787,7 @@ const BotTracery = {
 		"special interest in #animal#",
 		"raised by #heritagelist.s#",
 		"won a #valuable# in a bet",
-		"last living speaker of Old #language.capitalizeAll#",
+		"last living speaker of #languagemod.capitalizeAll# #language.capitalizeAll#",
 		"keeps a #bookadj# #persbook#",
 		"carrying a purely ceremonial #weapon#",
 		"won #lootorigin# in a duel",
