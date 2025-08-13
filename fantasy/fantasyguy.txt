@@ -5374,7 +5374,7 @@ const BotTracery = {
         "a perfect disguise"
     ],
     "koboldname": [
-        "#orcstartcon.capitalize##allvowel###orcendcon#",
+        "#orcstartcon.capitalize##allvowel##orcendcon#",
         "#compcons.capitalize##voweldist##compcons#",
         "#consdist.capitalize##voweldist##consdist#",
         "#consdist.capitalize##allvowel##compcons#"
